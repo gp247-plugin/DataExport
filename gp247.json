@@ -1,0 +1,27 @@
+{
+    "name": "Data Export",
+    "image": "images/export.png",
+    "auth": "GP247",
+    "email": "support@gp247.net",
+    "link": "https://GP247.net",
+    "configGroup": "Plugins",
+    "configCode": "Other",
+    "configKey": "DataExport",
+    "version": "1.0.0",
+    "requireCore": [
+        "3.12"
+    ],
+    "minUpdateFrom": "1.0.0",
+    "requireComposerPackages": [
+        "gp247/shop"
+    ],
+    "requireGp247Extensions": [],
+    "requireLivewire": true,
+    "storeScope": "global",
+    "dataTables": {
+        "tables": [
+            "data_export_job"
+        ],
+        "help": "Export runs of the Data Export plugin (kind, filters, counts — the files themselves are not kept)."
+    }
+}
