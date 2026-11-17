@@ -106,6 +106,10 @@ Mọi lần tạo và tải file đều được ghi vào **nhật ký thao tác
 
 Gỡ plugin xoá toàn bộ file xuất còn trên máy chủ, mục menu và các quyền của plugin. Danh sách đợt xuất (không chứa dữ liệu khách) được giữ lại.
 
+## Lịch sử phát hành
+
+Các phiên bản và thay đổi: [Lịch sử phát hành](Release-history/v1_vi.md).
+
 ## Giấy phép
 
 MIT — miễn phí cho mọi site GP247 / S-Cart.

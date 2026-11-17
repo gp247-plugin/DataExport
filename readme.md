@@ -106,6 +106,10 @@ Every file created and downloaded is written to the **operation log** (who, data
 
 Uninstalling deletes every export file left on the server, the menu entry and the plugin's permissions. The list of runs (which holds no customer data) is kept.
 
+## Release history
+
+Versions and changes: [Release history](Release-history/v1.md).
+
 ## License
 
 MIT — free for every GP247 / S-Cart site.
